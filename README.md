@@ -25,4 +25,4 @@ Python依赖库： pexpect, MySQLdb, 17monip, scapy
 python scanner.py 20 #20为开的线程数  
   
 注：目前已在Centos6.5和Ubuntu14.04测试通过
-
+-  Tested in Mac OS, passed!
